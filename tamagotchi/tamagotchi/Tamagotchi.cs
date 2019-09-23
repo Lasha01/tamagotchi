@@ -8,5 +8,6 @@ namespace tamagotchi
 {
     class Tamagotchi
     {
+        public string name;
     }
 }
